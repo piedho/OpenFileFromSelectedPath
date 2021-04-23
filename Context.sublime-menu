@@ -1,0 +1,6 @@
+[
+{
+    "id": "edit",
+    "command": "open_file_from_selected_path"
+}
+]
